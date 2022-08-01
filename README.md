@@ -50,7 +50,7 @@ Este projeto foi realizado em grupo, pelos seguintes integrantes:
 
 Você pode visualizar a aplicação do projeto através [desse link](https://ariel.msi.dev.br/SLP/).
 
-Obs: Esta aplicação foi realizada para um view mobile, para uma melhor experiência, recomenda-se utilizar uma view com dimensões de 320 x 568 (iPhone 5/SE) ou similares.
+Obs: Esta aplicação pode ser utilizada em quaiquer aparelhos celular e/ou desktop
 
 
 ---
