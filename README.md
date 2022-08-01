@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Muito Prazer, Sou o Ariel Xavier</h1>
+<h1 align="center">Olá 👋, Muito Prazer, Sou Ariel Xavier</h1>
 <h3 align="center">Apaixonado por Tecnologia</h3>
 <h3 align="center">Buscando minha Primeira Oportunidade como Desenvolvedor Jr.</h3>
 <h3 align="center">Buscando minha Primeira Oportunidade como Desenvolvedor Fullstack Jr.</h3>
@@ -6,7 +6,7 @@
 
 <h2 align="center">Entre em contato comigo:</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/isaaccruzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariel-xavier-2b1960190" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ariel-xavier-2b1960190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariel-xavier-2b1960190" height="30" width="40" /></a>
 </p>
 <h2 align="center">Linguagens e Ferramentas:</h2>
 <div>
