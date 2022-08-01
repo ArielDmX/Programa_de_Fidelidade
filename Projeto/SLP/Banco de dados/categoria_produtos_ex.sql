@@ -1,0 +1,16 @@
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Limpeza');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Condimentos');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Matinais');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Cereais');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Bebidas alcoólicas');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Bebidas');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Lacticícios');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Frios');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Açougue');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Massas');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Hortifruti');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Padaria');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Descartáveis');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Animais');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Doces');
+INSERT INTO `categoria_produto` (`idcategoria_produto`, `categoria`) VALUES (NULL, 'Mercearia');
