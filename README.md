@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="center">
-  Projeto ReceitApp
+  Projeto LOYALTY
+ 
 </h1>
 
 <p align="center">
