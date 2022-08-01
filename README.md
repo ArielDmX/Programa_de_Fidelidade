@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Muito Prazer, Sou Ariel Xavier</h1>
 <h3 align="center">Apaixonado por Tecnologia</h3>
-<h3 align="center">Buscando minha Primeira Oportunidade como Desenvolvedor Jr.</h3>
-<h3 align="center">Buscando minha Primeira Oportunidade como Desenvolvedor Fullstack Jr.</h3>
+<h3 align="center">Buscando minha Primeira Oportunidade na área de desenvolvimento.</h3>
+
 
 
 <h2 align="center">Entre em contato comigo:</h2>
