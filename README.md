@@ -1,5 +1,4 @@
 <div align="center">
- <img alt="logo" src="./src/images/logoreceitapp.png" width="100px">
 </div>
 
 <h1 align="center">
