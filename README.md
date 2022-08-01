@@ -20,9 +20,9 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto_3" src="./Projeto/SLP/images/login.png" height="200px" width="60%">
-  <img alt="Projeto_1" src="./Projeto/SLP/images/home.png" height="200px" width="60%">
-  <img alt="Projeto_2" src="./Projeto/SLP/images/store.png" height="200px" width="60%">
+  <img alt="Projeto_3" src="./Projeto/SLP/images/login.png" height="200px" width="50%">
+  <img alt="Projeto_1" src="./Projeto/SLP/images/home.png" height="200px" width="50%">
+  <img alt="Projeto_2" src="./Projeto/SLP/images/store.png" height="200px" width="50%">
   
 </p>
 
