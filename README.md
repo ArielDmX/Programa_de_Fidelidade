@@ -20,9 +20,10 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto_1" src="./public/ReceitApp_1.jpeg" height="400px" width="30%">
-  <img alt="Projeto_2" src="./public/ReceitApp_2.jpeg" height="400px" width="30%">
-  <img alt="Projeto_3" src="./public/ReceitApp_3.jpeg" height="400px" width="30%">
+  <img alt="Projeto_3" src="./Projeto/SLP/images/login.png" height="400px" width="30%">
+  <img alt="Projeto_1" src="./Projeto/SLP/images/home.png" height="400px" width="30%">
+  <img alt="Projeto_2" src="./Projeto/SLP/images/store.png" height="400px" width="30%">
+  
 </p>
 
 ## 🚀 Tecnologias
