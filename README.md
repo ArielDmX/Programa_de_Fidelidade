@@ -59,7 +59,7 @@ Obs: Esta aplicação pode ser utilizada em quaiquer aparelhos celular e/ou desk
 ## 🦸 Autor
 
 <a href="https://www.linkedin.com/in/ariel-xavier-2b1960190/">
- <img style="border-radius: 50%;" src="./public/profile.jpeg" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="./Projeto/SLP/images/autor.jpg" width="100px;" alt=""/>
  <br />
  <sub><b>Ariel Xavier</b></sub></a>
  <br />
