@@ -1,41 +1,76 @@
-<h1 align="center">Olá 👋, Muito Prazer, Sou Ariel Xavier</h1>
-<h3 align="center">Apaixonado por Tecnologia</h3>
-<h3 align="center">Buscando minha Primeira Oportunidade na área de desenvolvimento.</h3>
-<br />
+<div align="center">
+ <img alt="logo" src="./src/images/logoreceitapp.png" width="100px">
+</div>
 
+<h1 align="center">
+  Projeto ReceitApp
+</h1>
 
-<h2 align="center">Entre em contato comigo:</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/ariel-xavier-2b1960190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariel-xavier-2b1960190" height="30" width="40" /></a>
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar-o-projeto">Como executar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir-no-projeto">Como contribuir no projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-autor">Autor</a>
 </p>
-<h2 align="center">Linguagens e Ferramentas:</h2>
-<div>
-  <h3 align="center">Front-end</h3>
-  <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-  </p>
-  <h3 align="center">Back-end</h3>
-  <p align="center">
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-  </p>
-  <h3 align="center">Outras</h3>
-  <p align="center">
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-  </p>
-<div>
+
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Projeto_1" src="./public/ReceitApp_1.jpeg" height="400px" width="30%">
+  <img alt="Projeto_2" src="./public/ReceitApp_2.jpeg" height="400px" width="30%">
+  <img alt="Projeto_3" src="./public/ReceitApp_3.jpeg" height="400px" width="30%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JS
+- PHP
+- MySQL
+
+## 💻 Projeto
+
+Este projeto consiste no aprimoramento de um programa de fidelidade, facilitando sua utilização e ampliando os tipos de recompensas nele oferecidas. O cliente possui a autonomia para cadastrar o código de sua compra e assim registrar os pontos ganhos na compra. Além disso, ele poderá trocar seus pontos acumulados por diversos benefícios disponíveis na loja virtual do programa. Será implementada, também, uma área de administrador na qual será possível realizar consultas sobre o histórico de pontos e trocas de todos clientes, assim como emitir relatórios.
+
+Este projeto foi realizado em grupo, pelos seguintes integrantes:
+
+- Ariel Xavier;
+- Joyce Ribeiro;
+- Daniel Silvano;
+
+```
+
+## 🔖 Deploy
+
+Você pode visualizar a aplicação do projeto através [desse link](https://ariel.msi.dev.br/SLP/).
+
+Obs: Esta aplicação foi realizada para um view mobile, para uma melhor experiência, recomenda-se utilizar uma view com dimensões de 320 x 568 (iPhone 5/SE) ou similares.
+
+
+---
+
+## 🦸 Autor
+
+<a href="https://www.linkedin.com/in/ariel-xavier-2b1960190/">
+ <img style="border-radius: 50%;" src="./public/profile.jpeg" width="100px;" alt=""/>
+ <br />
+ <sub><b>Ariel Xavier</b></sub></a>
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ariel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-xavier-2b1960190/)](https://www.linkedin.com/in/ariel-xavier-2b1960190/) 
+[![Gmail Badge](https://img.shields.io/badge/-ariel.daniell@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ariel.daniell@hotmail.com)](mailto:ariel.daniell@hotmail.com)
+
+---
+
+Feito por Ariel Xavier [Entre em contato!](https://www.linkedin.com/in/ariel-xavier-2b1960190/)
+
+---
