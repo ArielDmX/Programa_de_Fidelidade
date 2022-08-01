@@ -47,9 +47,8 @@ Este projeto foi realizado em grupo, pelos seguintes integrantes:
 - Joyce Ribeiro;
 - Daniel Silvano;
 
-```
 
-## 🔖 Deploy
+🔖 Deploy
 
 Você pode visualizar a aplicação do projeto através [desse link](https://ariel.msi.dev.br/SLP/).
 
