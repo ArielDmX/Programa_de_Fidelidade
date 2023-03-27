@@ -47,10 +47,6 @@ Este projeto foi realizado em grupo, pelos seguintes integrantes:
 - Daniel Silvano;
 
 
-🔖 Deploy
-
-Você pode visualizar a aplicação do projeto através [desse link](https://ariel.msi.dev.br/SLP/).
-
 Obs: Esta aplicação pode ser utilizada em quaiquer aparelhos celular e/ou desktop
 
 
