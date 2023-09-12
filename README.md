@@ -40,12 +40,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto consiste no aprimoramento de um programa de fidelidade, facilitando sua utilização e ampliando os tipos de recompensas nele oferecidas. O cliente possui a autonomia para cadastrar o código de sua compra e assim registrar os pontos ganhos na compra. Além disso, ele poderá trocar seus pontos acumulados por diversos benefícios disponíveis na loja virtual do programa. Será implementada, também, uma área de administrador na qual será possível realizar consultas sobre o histórico de pontos e trocas de todos clientes, assim como emitir relatórios.
 
-Este projeto foi realizado em grupo, pelos seguintes integrantes:
-
-- Ariel Xavier;
-- Joyce Ribeiro;
-- Daniel Silvano;
-
 
 Obs: Esta aplicação pode ser utilizada em quaiquer aparelhos celular e/ou desktop
 
